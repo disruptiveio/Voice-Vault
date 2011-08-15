@@ -1,0 +1,78 @@
+2011/08/12 14:57:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CWebApplication.php:332
+Stack trace:
+#0 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CWebApplication.php(121): CWebApplication->runController('gii')
+#1 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/sendshorty/public_html/wp-content/plugins/voicevault/ivr/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wp-content/plugins/voicevault/ivr/?r=gii
+2011/08/12 14:57:38 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CWebApplication.php(328): CController->run('')
+#2 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CWebApplication.php(121): CWebApplication->runController('gii')
+#3 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/base/CApplication.php(155): CWebApplication->processRequest()
+#4 /home/sendshorty/public_html/wp-content/plugins/voicevault/ivr/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wp-content/plugins/voicevault/ivr/?r=gii
+2011/08/12 14:57:40 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CWebApplication.php(328): CController->run('')
+#2 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CWebApplication.php(121): CWebApplication->runController('gii')
+#3 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/base/CApplication.php(155): CWebApplication->processRequest()
+#4 /home/sendshorty/public_html/wp-content/plugins/voicevault/ivr/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wp-content/plugins/voicevault/ivr/?r=gii
+2011/08/12 14:57:44 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CWebApplication.php(328): CController->run('')
+#2 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CWebApplication.php(121): CWebApplication->runController('gii')
+#3 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/base/CApplication.php(155): CWebApplication->processRequest()
+#4 /home/sendshorty/public_html/wp-content/plugins/voicevault/ivr/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wp-content/plugins/voicevault/ivr/?r=gii
+2011/08/12 14:57:45 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CWebApplication.php(328): CController->run('')
+#2 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CWebApplication.php(121): CWebApplication->runController('gii')
+#3 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/base/CApplication.php(155): CWebApplication->processRequest()
+#4 /home/sendshorty/public_html/wp-content/plugins/voicevault/ivr/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wp-content/plugins/voicevault/ivr/?r=gii
+2011/08/12 14:57:45 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CWebApplication.php(328): CController->run('')
+#2 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CWebApplication.php(121): CWebApplication->runController('gii')
+#3 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/base/CApplication.php(155): CWebApplication->processRequest()
+#4 /home/sendshorty/public_html/wp-content/plugins/voicevault/ivr/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wp-content/plugins/voicevault/ivr/?r=gii
+2011/08/12 14:57:47 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CWebApplication.php(328): CController->run('')
+#2 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CWebApplication.php(121): CWebApplication->runController('gii')
+#3 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/base/CApplication.php(155): CWebApplication->processRequest()
+#4 /home/sendshorty/public_html/wp-content/plugins/voicevault/ivr/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wp-content/plugins/voicevault/ivr/?r=gii
+2011/08/12 14:57:53 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CWebApplication.php(328): CController->run('')
+#2 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CWebApplication.php(121): CWebApplication->runController('gii')
+#3 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/base/CApplication.php(155): CWebApplication->processRequest()
+#4 /home/sendshorty/public_html/wp-content/plugins/voicevault/ivr/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wp-content/plugins/voicevault/ivr/?r=gii
+2011/08/12 14:59:41 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CWebApplication.php(328): CController->run('')
+#2 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/web/CWebApplication.php(121): CWebApplication->runController('gii')
+#3 /home/sendshorty/public_html/wp-content/plugins/voicevault/yii/framework/base/CApplication.php(155): CWebApplication->processRequest()
+#4 /home/sendshorty/public_html/wp-content/plugins/voicevault/ivr/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wp-content/plugins/voicevault/ivr/index.php?r=gii
+2011/08/13 00:15:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "accounts".' in C:\Users\Michael Mackus\Projects\SendShorty\wp\wp-content\plugins\voicevault\yii\framework\web\CController.php:477
+Stack trace:
+#0 C:\Users\Michael Mackus\Projects\SendShorty\wp\wp-content\plugins\voicevault\yii\framework\web\CController.php(262): CController->missingAction('accounts')
+#1 C:\Users\Michael Mackus\Projects\SendShorty\wp\wp-content\plugins\voicevault\yii\framework\web\CWebApplication.php(328): CController->run('accounts')
+#2 C:\Users\Michael Mackus\Projects\SendShorty\wp\wp-content\plugins\voicevault\yii\framework\web\CWebApplication.php(121): CWebApplication->runController('site/accounts')
+#3 C:\Users\Michael Mackus\Projects\SendShorty\wp\wp-content\plugins\voicevault\yii\framework\base\CApplication.php(155): CWebApplication->processRequest()
+#4 C:\Users\Michael Mackus\Projects\SendShorty\wp\wp-content\plugins\voicevault\ivr\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/sendshorty_vault/index.php?r=site/accounts
