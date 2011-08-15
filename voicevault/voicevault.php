@@ -11,7 +11,7 @@ Author: Disruptive Technologies
 Author URI: http://disruptive.io/
 */
 
-define('TROPO_CALL_TOKEN', '067712be25ec124c8e4fef88657b32d2d450da2b382cf9f59218d0fef4ebc3797c5492666f17c24a991e1dd6');
+define('TROPO_CALL_TOKEN', '');
 
 /**
  * 

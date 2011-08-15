@@ -86,17 +86,17 @@ return array(
 		// this is used in contact page
 		// 'adminEmail'=>'webmaster@example.com',
 		'wordpress_db'=>array(
-			'name'=>'sendshorty_wordpress',
-			'user'=>'sendshorty',
-			'pass'=>'Itunes12',
-			'host'=>'localhost',
-			'prefix'=>'wp_',
+			'name'=>'',
+			'user'=>'',
+			'pass'=>'',
+			'host'=>'',
+			'prefix'=>'',
 		),
 		'voicevault'=>array(
-			'username'=>'DevMichaelMackus',
-			'password'=>'u458N3a6FF9eX2qs',
-			'organisation_id'=>'ad93d03d-c28b-4ca3-9af7-6a8fe18e9695',
-			'config_id'=>'f8e6f876-54da-4bc1-ae4c-2129cfd5b6e8',
+			'username'=>'',
+			'password'=>'',
+			'organisation_id'=>'',
+			'config_id'=>'',
 		),
 	),
 );
